@@ -1,6 +1,6 @@
 📌 Descrição
 
-Esta API RESTful foi desenvolvida utilizando Flask para gerenciar uma lista de tarefas. A API permite criar, modificar, buscar e excluir tarefas de forma simples e eficiente.
+Esta API REST foi desenvolvida utilizando Flask para gerenciar uma lista de tarefas. A API permite criar, modificar, buscar e excluir tarefas de forma simples e eficiente.
 
 🚀 Funcionalidades
 
